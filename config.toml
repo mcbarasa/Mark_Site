@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+LanguageCode = 'en-us'
+title = 'My Portfolio'
+theme = "PaperMod"
